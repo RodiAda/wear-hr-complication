@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Виджет пульса</string>
+    <string name="complication_label">Пульс (датчик)</string>
+    <string name="content_description">Пульс %1$d уд./мин</string>
+    <string name="no_data">Пульс недоступен</string>
+</resources>

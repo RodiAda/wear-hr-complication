@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Heart rate complication</string>
+    <string name="complication_label">Heart rate</string>
+    <string name="content_description">Heart rate %1$d bpm</string>
+    <string name="no_data">Heart rate unavailable</string>
+</resources>
